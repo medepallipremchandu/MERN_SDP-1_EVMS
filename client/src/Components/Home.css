@@ -1,0 +1,20 @@
+.home1 {
+    padding-top: 4CM;
+   padding-left: CM;
+   padding-right: cm;
+   padding-bottom: 5cm;
+}
+.body {
+    background-image: url('https://wallpaperaccess.com/full/4893706.jpg');
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    
+    background-repeat: no-repeat;
+    
+  }
+  .home2{
+      padding-left: 10cm;
+  }
+
+  

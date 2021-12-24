@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://MSWD:cmpevents@cluster0.ocv7i.mongodb.net/myFirstDatabase",
+    "secretOrKey": "secret"
+}
